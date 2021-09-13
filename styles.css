@@ -64,3 +64,19 @@
     width: 400px;
     font-size: 16px;
 }
+
+.small_txt {
+	font-size: 12px;
+}
+
+.table_full {
+	width: 100%;
+}
+
+.th_500 {
+	width: 500px;
+}
+
+.th_400 {
+	width: 400px;
+}
