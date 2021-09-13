@@ -1,0 +1,66 @@
+.green_box {
+     background-color: #4dffa9;
+     text-align: center;
+     height: 100%;
+}
+
+.yellow_box {
+     background-color: #ffff66;
+     width: 384px;
+}
+
+.green_box2 {
+     background-color: #4dffa9;
+     width: 384px;
+}
+
+.v_center {
+    line-height: 40px;
+}
+
+.glyphicon.glyphicon-circle-arrow-left {
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.glyphicon.glyphicon-circle-arrow-right {
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.glyphicon.glyphicon-circle-arrow-down {
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.glyphicon.glyphicon-circle-arrow-up {
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.tech_p {
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 400px;
+    font-size: 16px;
+}
+
+.tech_p_blue {
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: #b8e5ff;
+    width: 400px;
+    font-size: 16px;
+}
