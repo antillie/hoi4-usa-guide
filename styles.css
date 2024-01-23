@@ -80,3 +80,7 @@
 .th_400 {
 	width: 400px;
 }
+
+.right_padding {
+    padding-right: 10px;
+}
