@@ -84,3 +84,11 @@
 .right_padding {
     padding-right: 10px;
 }
+
+.focus {
+    background-color: #ffffff;
+}
+
+.focus_blue {
+    background-color: #b8e5ff;
+}
